@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    background: green;
+    padding: 15px;
+}
+
+body{
+    margin: 0;
+}
+
+.margin-left{
+    margin-left: 15px;
+}
+
+.padding{
+    padding:15px;
+}
+
+.menuitem{
+    text-decoration: none;
+}
